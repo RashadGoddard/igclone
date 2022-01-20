@@ -1,1 +1,1 @@
-web: gunicorn app:igclone
+web: gunicorn app:app
